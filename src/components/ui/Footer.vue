@@ -1,5 +1,5 @@
 <template>
-  <div class="container lg:p-14 grid grid-cols-5 gap-4">
+  <div class="container lg:p-14 grid grid-cols-5 gap-4 mx-auto">
     <div>
       <h1 class="font-bold">CLEAN HERO</h1>
       <p class="text-gray-400">2021</p>
