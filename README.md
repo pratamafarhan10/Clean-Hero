@@ -4,7 +4,7 @@
 Here are a few technologies that we used :
 - Front-end development using **HTML, Javascript, CSS, Tailwind, Vue JS**
 - Deployment using **Heroku**
-- Domaind using **GoDaddy**
+- Domain using **GoDaddy**
 
 ## Checkout our website
 http://www.cleanhero.co/
