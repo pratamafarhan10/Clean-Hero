@@ -3,8 +3,8 @@
     <div class="card-body">
       <div class="grid grid-cols-2 gap-4 items-center">
         <div>
-          <h2 class="card-title">Catch The Trash</h2>
-          <p class="leading-6">
+          <h2 class="card-title text-black">Catch The Trash</h2>
+          <p class="leading-6 text-black">
             Catch the trash is a game to familiarize kids with waste categories. Players will pick up trash according to the selected trash bin
             (<span class="trash-organic">Organic</span>, <span class="trash-inorganic">Inorganic</span>, and <span class="trash-b3">B3</span>).
           </p>

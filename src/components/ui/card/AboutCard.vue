@@ -3,8 +3,8 @@
     <div>
       <div class="card shadow-lg bg-white w-full h-full">
         <div class="card-body justify-items-center">
-          <h2 class="card-title text-3xl">About Clean Hero</h2>
-          <p class="leading-8">
+          <h2 class="card-title text-3xl text-black">About Clean Hero</h2>
+          <p class="leading-8 text-black">
             Clean Hero developed with the mission to provide sustainability education for public, especially children from age 6. We provide interesting games for children to raise public awareness about waste segregation at the lowest level. We also collaborate with elementary schools and local communities.
           </p>
           <button
