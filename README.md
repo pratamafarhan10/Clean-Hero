@@ -1,4 +1,13 @@
-# garuda-hacks-2021
+# Hello welcome to Clean Hero Repository <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+## ⚡ Technologies
+Here are a few technologies that we used :
+- Front-end development using **HTML, Javascript, CSS, Tailwind, Vue JS**
+- Deployment using **Heroku**
+- Domaind using **GoDaddy**
+
+## Checkout our website
+http://www.cleanhero.co/
 
 ## Project setup
 ```
