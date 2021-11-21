@@ -9,7 +9,7 @@ Here are a few technologies that we used :
 ## Checkout our website
 http://www.cleanhero.co/
 
-## Project setup
+## Vue JS Project setup
 ```
 npm install
 ```
