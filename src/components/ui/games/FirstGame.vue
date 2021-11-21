@@ -21,7 +21,7 @@
           </button>
         </div>
         <div>
-          <img src="../../../assets/catch.gif" class="rounded-md mx-auto" />
+          <img src="../../../assets/catch.gif" class="rounded-md mx-auto img-height" />
         </div>
       </div>
     </div>
@@ -39,5 +39,9 @@
 
 .trash-b3 {
   color: #ED2922;
+}
+
+.img-height {
+  height: 300px;
 }
 </style>

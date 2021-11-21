@@ -24,7 +24,16 @@
           </button>
         </div>
         <div>
-          <img src="../../../assets/mario.gif" class="rounded-md mx-auto" />
+          <!-- <img src="../../../assets/mario.gif" class="rounded-md mx-auto" /> -->
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/2RDE6iFRPoM"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
         </div>
       </div>
     </div>

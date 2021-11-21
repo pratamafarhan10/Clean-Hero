@@ -34,9 +34,25 @@
         >
           Super Trash Picker
         </button>
+         <button
+          class="
+            btn
+            border-green-300
+            hover:bg-green-400 hover:border-green-300 hover:text-white
+          "
+          @click="setSelectedComponent('third-game')"
+          :class="{
+            'bg-green-700': selectedComponent == 'third-game',
+            'text-white': selectedComponent == 'third-game',
+            'text-green-500': selectedComponent !== 'third-game',
+            'bg-white': selectedComponent !== 'third-game',
+          }"
+        >
+          Hay Day
+        </button>
       </div>
     </div>
-    <div class="mt-5 w-10/12">
+    <div class="mt-5 w-auto">
       <transition name="card" mode="out-in">
           <component :is="selectedComponent"></component>
         <!-- <game-card :selectedGame="selectedGame"></game-card> -->
@@ -48,11 +64,13 @@
 <script>
 import FirstGame from "../ui/games/FirstGame.vue";
 import SecondGame from "../ui/games/SecondGame.vue";
+import ThirdGame from "../ui/games/ThirdGame.vue";
 
 export default {
   components: {
     "first-game": FirstGame,
     "second-game": SecondGame,
+    "third-game": ThirdGame,
   },
   data() {
     return {
